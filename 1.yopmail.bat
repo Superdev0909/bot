@@ -1,0 +1,2 @@
+python yopmail.py
+pause

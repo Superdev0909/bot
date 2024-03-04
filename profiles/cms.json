@@ -1,0 +1,75 @@
+{
+	"professional": "Senior CMS Developer",
+	"work_experience": [
+		{
+			"company": "Maxiom Technology",
+			"role": "Rain Infotech Private Limited",
+			"country" : "USA(remote)",
+			"location": "",
+			"description": [
+			"Associated with various phases of Software Development Life Cycle (SDLC) of the application like requirements gathering, Design, Analysis and Code development.",
+			"Developed RESTful API/GraphQL and integrated with cloud products like AWS REST API gateway and AWS lambda.",
+			"Developed backend services with Spring Boot.",
+			"Experienced to DevOps with AWS, Google Cloud.",
+			"Experienced to agile methodology using project management tools such as Jira.",
+			"Used Git for version control and collaboration.",
+			"Interacted with QA to develop test plans from high-level design documentation."
+		],
+		"start": "2022.4",
+		"end": "2023.8"
+	}],
+	"education": [{
+		"university": "Technical University of Cologne",
+		"degree": "Bachelor of Computer Science (BCompSc)",
+		"field": "Computer Science",
+		"start": "2014",
+		"end": "2018",
+		"description": "Savannah College's computer science program offers a broad range of courses covering programming languages, algorithms, computer networks, software engineering, and more. The curriculum aims to equip students with both theoretical knowledge and practical skills to excel in the field of computer science."
+	}],
+	"languages": [],
+	"skills": [
+		"WordPress",
+		"WordPress Malware Removal",
+		"WordPress Multisite",
+		"WordPress Theme",
+		"Shopify",
+		"Webflow",
+		"PSD to WordPress",
+		"CSS",
+		"WordPress Plugin",
+		"Responsive Design",
+		"Craft CMS",
+		"Mockup",
+		"WordPress Landing Page",
+		"Squarespace",
+		"WooCommerce"
+	],
+	"services": [
+		"Blockchain, NFT & Cryptocurrency",
+		"Web Development",
+		"Project Management",
+		"Ecommerce Development",
+		"Desktop Application Development",
+		"Database Management & Administration",
+		"Data Mining & Management",
+		"Lead Generation & Telemarketing"
+	],
+	"overview": ["As a software development professional, I not only offer technical help but also make sure I thoroughly understand my clients' businesses. You can count on my full support for all your project needs.\n\n My experience in consulting and business development helps me to advice on your project plan, any tricky bits, and what might be a risk. I work closely with you to make sure we find the best solution for what you need.\n\n I have a team that adapts pretty well - no matter the scale of the task. We're all set to tackle your business challenges using the best web technologies and solutions.\n\nWe use tech tools like:\n\n Frameworks/CMS/Libraries:\n- Expertise in Codeigniter 2 & 3, Laravel +5 for robust web applications.\n- Customizing WordPress, Shopify, and Shopify Plus to perfection.\n- Mastery of Magento, Squarespace, Webflow, and Kajabi for dynamic websites.\n- Leveraging Bootstrap, jQuery, Vue.js, React.js, Node.js, and Yii2 for enhanced user experiences.\n\n- Programming Languages:\nPHP, Swift, SQL, HTML/HTML5, CSS/CSS3, JavaScript, JSON, Ajax\n\n-For design and task management, we check Figma, MailGun, Stripe, Jira.\n-Ability to learn and adapt quickly to the emerging new technologies and paradigms.\n\nI have an extensive portfolio of successful collaborations with startups and larger projects, consistently earning high praise and recommendations from satisfied clients.\n\nFeel free to connect with me to talk about how we can help you reach your goals. "
+],
+	"hour_rate": "30",
+	"photo_others": {		
+		"birthday": "1996-01-11",
+		"country" : "Singapore",
+		"city": "Singapore",
+		"street": "Starhub Green, 67 Ubi Avenue 1",
+		"zipcode": "069546",
+		"phone": "63260245",
+		"avatar":["001.jpg"]
+	},
+	"first_name": [
+		"HaoMing"
+	],
+	"last_name": [
+		"Lin"
+	]
+}

@@ -1,0 +1,106 @@
+{	
+	"professional": "Senior Full-Stack Developer",
+	"work_experience": [
+		{
+			"company": "Maxiom Technology",
+			"role": "Senior Full-Stack Developer",
+			"country" : "USA(remote)",
+			"location": "",
+			"description": [
+				"Worked well independently and on a team to solve problems",
+				"Converted a Figma design into HTML pages using React, HTML, CSS while closely working with designers",
+				"Supported the DevOps team to automate CI/CD processes",
+				"Shopify Premium Websites."
+			],
+			"start": "2022.4",
+			"end": "2023.8"
+		},
+		{
+			"company": "Aligned Software Solutions",
+			"role": "Junior Full-Stack Developer",
+			"country" : "Canada(remote)",
+			"location": "",
+			"description": [
+				"Extensively utilized Django technologies, including forms, templates, and orm for communication with databases in different forms while using interceptors, validators, actions using Django frameworks",
+				"Created and wrote result reports in different formats like TXT, CSV, XLS, and JSON while working on CSV files and trying to get input from the MySQL database to ease company processes and ensure continuity",
+				"Involved in the design and development of the application using Python 3. 3, HTML5, CSS3, Ajax, JSON, and JQuery that delivered and enabled subsequent company success and 24% sales growth",
+				"Implemented custom features and functionality using HTML5, CSS3, JavaScript, Liquid, and Shopify APIs.",
+				"Ensured stores are optimized for SEO and implemented CRO best practices.",
+				"Extend Shopify's functionalities to the next level using storefront APIs and meta fields"
+			],
+			"start": "2021.2",
+			"end": "2022.2"
+		},
+		{
+			"company": "Hyperfam Pte Ltd",
+			"role": "Junior Frontend Developer",
+			"country" : "Singapore",
+			"location": "",
+			"description": [
+				"Redesigned 10+ websites and logos by using Adobe Photoshop, Flash and Figma.",
+				"Developed and launched 2 e-commerce platform and related products online.",
+				"Increased mobile orders by 18% by developing a mobile application for ordering and payment.",
+				"Gained experience with various web development tools including Bower, NPM, Git, Material design, Gulp, and cloud services like AWS, Azure, GCP, Heroku, and so on."
+			],
+			"start": "2019.11",
+			"end": "2020.12"
+		}
+	],
+	"education": [
+		{
+			"university": "Technical University of Cologne ",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2014",
+			"end": "2018",
+			"description": "Savannah College's computer science program offers a broad range of courses covering programming languages, algorithms, computer networks, software engineering, and more. The curriculum aims to equip students with both theoretical knowledge and practical skills to excel in the field of computer science."
+		}
+	],
+	"languages": [],
+	"skills": [
+        "Squarespace",
+        "MERN Stack",
+        "React",
+        "PHP",
+        "Vue.js",
+        "Next.js",
+        "Django",
+        "Flask",
+        "ChatGPT",
+        "Laravel",
+        "Three.js",
+        "OpenAI",
+        "Shopify",
+        "Python",
+        "WordPress"
+	],
+	"services": [
+		"Web Development",
+        "Web & Mobile Design",
+        "Ecommerce Development",
+		"Data Mining & Management",
+		"Database Management & Administration",
+		"Desktop Application Development",
+		"Blockchain, NFT & Cryptocurrency",
+		"Lead Generation & Telemarketing"
+	],
+	"overview": [
+		"Passionate Full-stack engineer with over 5+ years experience in software development with Blockchain experience. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate in a team setting"
+	],
+	"hour_rate": "30",
+	"photo_others": {		
+		"birthday": "1996-01-11",
+		"country" : "Singapore",
+		"city": "Singapore",
+		"street": "Starhub Green, 67 Ubi Avenue 1",
+		"zipcode": "069546",
+		"phone": "63260245",
+		"avatar":["001.jpg"]
+	},
+	"first_name": [
+		"HaoMing"
+	],
+	"last_name": [
+		"Lin"
+	]
+}
